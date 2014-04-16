@@ -8,10 +8,15 @@ https://deekshachugh.shinyapps.io/homework3/
 
 Here are some static plots that I made in R:
 
+![IMAGE](PopluationHeatMap.png)
+==============================
+
 ![IMAGE](hw1-multiline.png)
 ==============================
+
 ![IMAGE](hw1-bar.png)
 ==============================
+
 ![IMAGE](hw1-multiples.png)
 ==============================
 
